@@ -9,7 +9,7 @@
 
 ## About
 
-**ttlcache** – is a simple and efficient in-memory key value storage with TTL for each record.
+**ttlcache** – is simple and efficient in-memory key value storage with TTL for each record.
 
 The key is of uint64 type. Library provides wrappers for common types:
 
